@@ -1,0 +1,6 @@
+name = "Plack-App-CronSchedule"
+# badges = ["travis"]
+authority="cpan:AEREAL"
+
+module_maker="ModuleBuildTiny"
+
